@@ -1,0 +1,2 @@
+Prefix plugins/PC/example/
+Plugin PC inputfile foo.csv outputfile network.gml
